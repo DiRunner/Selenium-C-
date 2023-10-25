@@ -1,0 +1,6 @@
+Login,Password,FisrtName,LastName,Role
+DiegoUser1,DefaultPass,Diego,Corredor,DEVELOPER
+DiegoUser2,DefaultPass,Diego,Corredor,DEVELOPER
+DiegoUser3,DefaultPass,Diego,Corredor,DEVELOPER
+DiegoUser4,DefaultPass,Diego,Corredor,USER
+DiegoUser5,DefaultPass,Diego,Corredor,USER
